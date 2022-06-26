@@ -146,7 +146,9 @@ class Game{
 
         gameOver() {
         //     fill the white color
+        fill("white");
         //  print the gameover message
+        text("Game Over");
         }
             
 
